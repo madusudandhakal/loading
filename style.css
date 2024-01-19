@@ -1,0 +1,13 @@
+.container{
+    border: black 2px solid;
+    height: 22px;
+    width: 200px;
+    border-radius: 22px;
+}
+.fill{
+    height: 100%;
+    width: 0%;
+    background-color: rgb(209, 20, 52);
+    border-radius: 22px;
+    transition: all 3s;
+}
